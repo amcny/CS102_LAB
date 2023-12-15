@@ -1,0 +1,9 @@
+Certainly! Here's the final summary of the Boolean expressions based on the given variable declarations:
+
+i) x == y or x <= z is True.
+
+ii) not(x % 2 == 0) is True.
+
+iii) not(x / 2 == 13) or b or (z * 3 == 96) is False.
+
+iv) b or True is True.

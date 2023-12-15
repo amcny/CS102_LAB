@@ -1,0 +1,6 @@
+a=int(input("1 rupee: "))
+b=int(input("2 rupee: "))
+c=int(input("5 rupee: "))
+d=int(input("10 rupee: 5"))
+amount=a+(b*2)+(c*5)+(d*10)
+print(amount)
